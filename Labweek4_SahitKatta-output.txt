@@ -1,0 +1,5 @@
+ Hello SE, I am Sahit Katta
+ The content of arr is :
+ 10 15 19 18 60 24 11 19
+******************************
+ The largest value in arr is 60
